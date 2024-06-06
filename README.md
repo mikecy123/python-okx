@@ -1,6 +1,6 @@
 ### use asyncio and aiohttp to let MarketAPI support asynchronous，created a new API(AsyncMarketAPI) 
 usage：
-    import okx.AsyncMarketData as AsyncMarketData
+    import okx.AsyncMarketData as AsyncMarketData.
     result = MarketData.AsyncMarketAPI()
 
 
